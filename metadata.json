@@ -1,0 +1,6 @@
+{
+  "name": "SmartPrep CBT",
+  "description": "Comprehensive CBT examination preparation app for Nigerian SS3 students preparing for WAEC SSCE, NECO SSCE, and JAMB UTME.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
